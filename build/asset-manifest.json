@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a3b983c.css",
+    "main.js": "/static/js/main.003c0535.js",
+    "static/media/logo.png": "/static/media/logo.5fdc53e9a9c7553c42f9.png",
+    "static/media/kmit.jpg": "/static/media/kmit.1016fd8348b4dbba59a0.jpg",
+    "index.html": "/index.html",
+    "main.7a3b983c.css.map": "/static/css/main.7a3b983c.css.map",
+    "main.003c0535.js.map": "/static/js/main.003c0535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3b983c.css",
+    "static/js/main.003c0535.js"
+  ]
+}
